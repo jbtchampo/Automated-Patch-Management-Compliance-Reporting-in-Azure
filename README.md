@@ -1,8 +1,6 @@
 # Automated-Patch-Management-Compliance-Reporting-in-Azure
-Simulate a real-world enterprise patching strategy using:  Azure Update Management to schedule and deploy updates  Automation via PowerShell or Log Analytics Agent  Kusto Query Language (KQL) to report compliance status
 
 ![image](https://github.com/user-attachments/assets/5d1a3871-c873-46d0-bd8e-359028ef7a4e)
-
 
 
 # 🔧 Patch Management Simulation in Azure
